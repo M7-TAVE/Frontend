@@ -1,8 +1,11 @@
+import { InputWithLabel } from "@/components/InputWithLabel";
+
 const Home = () => {
   return (
     <>
       <div>
         <h1 className="flex justify-center text-blue-700">Home Page!</h1>
+        <InputWithLabel />
       </div>
     </>
   );
