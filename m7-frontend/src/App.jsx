@@ -59,36 +59,36 @@ function App() {
     });
   };
 
-  // // 로그인 쓸 때 주석 풀기
-  // useEffect(() => {
-  //   const fetchAuthStatus = async () => {
-  //     try {
-  //       const status = await getAuthStatus();
-  //       console.log("인증 상태 확인:", status);
-  //       console.log("인증 상태 확인2:", status.isAuthenticated);
+  // 로그인 쓸 때 주석 풀기
+  useEffect(() => {
+    const fetchAuthStatus = async () => {
+      try {
+        const status = await getAuthStatus();
+        console.log("인증 상태 확인:", status);
+        console.log("인증 상태 확인2:", status.isAuthenticated);
 
-  //       // 인증 상태 업데이트
-  //       setAuth({
-  //         isAuthenticated: status.isAuthenticated,
-  //         kakaoId: status.kakaoId,
-  //         email: status.email,
-  //         nickname: status.nickname,
-  //       });
-  //     } catch (error) {
-  //       console.error("인증 상태 확인 실패:", error);
+        // 인증 상태 업데이트
+        setAuth({
+          isAuthenticated: status.isAuthenticated,
+          kakaoId: status.kakaoId,
+          email: status.email,
+          nickname: status.nickname,
+        });
+      } catch (error) {
+        console.error("인증 상태 확인 실패:", error);
 
-  //       // 인증 실패 시 기본값 설정
-  //       setAuth({
-  //         isAuthenticated: false,
-  //         kakaoId: null,
-  //         email: null,
-  //         nickname: null,
-  //       });
-  //     }
-  //   };
+        // 인증 실패 시 기본값 설정
+        setAuth({
+          isAuthenticated: false,
+          kakaoId: null,
+          email: null,
+          nickname: null,
+        });
+      }
+    };
 
-  //   fetchAuthStatus(); // 백엔드에서 인증 상태 가져오기
-  // }, [setAuth]);
+    fetchAuthStatus(); // 백엔드에서 인증 상태 가져오기
+  }, [setAuth]);
 
   return (
     <>
