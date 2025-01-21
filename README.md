@@ -38,6 +38,48 @@
 <br>
 
 
+
+![image](https://github.com/user-attachments/assets/1313f40d-3cd0-4c02-9cf9-3fb97380bea7)
+
+![image](https://github.com/user-attachments/assets/6d97fd8b-448c-4b23-b3f3-c6d27164b656)
+
+## 🤔Project Intention
+준비부터 실시간 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스
+
+> ### 여행 초보자가 준비 과정에서 필요한 물품을 정리하고 정보를 찾는 데 많은 시간이 소요!
+
+- 여행을 준비할 때, 무엇을 챙겨야 하는지 기억이 나지 않아 필요한 물건을 잊고 챙기지 못함 <br>
+- 여행은 시기, 도착지마다 챙겨야 할 것이 다르기에… 그때마다 새로운 품목을 고려하고 챙기는 건 어렵고 귀찮음 <br>
+- 맛집, 관광지, 환율등 여행지에 대한 정보를 한눈에 보기 번거로울 때 <br>
+
+<br/>
+
+## ⭐️Main Function
+### 개인화된 여행 준비 체크리스트와 실시간 정보를 제공하여 효율적으로 준비 가능
+- 한눈에 볼 수 있는 챙길 것들과 물품 추천리스트 <br>
+![image](https://github.com/user-attachments/assets/77436106-f282-4c8b-a608-298ca88d2e84)
+
+- 여행 목적에 맞게 자동으로 챙길 것을 세팅해주는 템플릿 <br>
+![image](https://github.com/user-attachments/assets/7d367843-437d-48a0-9bb9-ce48f0ac9288)
+
+- 인기 여행지에 대한 항공사별 수하물 규정, 환율, 맛집, 관광지, 기념품 정보 제공 <br>
+![image](https://github.com/user-attachments/assets/aa0f3262-a694-47c0-80ea-408981936d78)
+
+
+<br/>
+
+
+## 👥 팀 멤버
+
+|  **전지원**  |  **이연서**  |
+| :----------: | :----------: |
+| <img src="https://github.com/user-attachments/assets/3fff8e3b-3e2c-4c00-9a1e-c92c25eb493e" width="150"/> | <img src="https://github.com/user-attachments/assets/1f35c4bb-b13a-41c5-ac87-e1eb7586d326" width="150"/> |
+| [@jiwon](https://github.com/jiwon) | [@lee-yeonseo](https://github.com/lee-yeonseo) |
+
+
+<br>
+
+
 ## 🕰️ 개발 기간
 
 - 24.11.29 - 25.1.25
