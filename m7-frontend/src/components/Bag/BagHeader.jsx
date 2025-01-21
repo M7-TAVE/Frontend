@@ -209,7 +209,7 @@ const BagHeader = ({ icon }) => {
         return;
       }
       if (existingTemplate) {
-        alert("이미 존재하는 템플릿입니다!");
+        alert("이미 존재하는 가방입니다!");
         onSetEditing(true);
         return;
       } else {
