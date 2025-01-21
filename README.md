@@ -32,7 +32,7 @@
 |  **전지원**  |  **이연서**  |
 | :----------: | :----------: |
 | <img src="https://github.com/user-attachments/assets/3fff8e3b-3e2c-4c00-9a1e-c92c25eb493e" width="150"/> | <img src="https://github.com/user-attachments/assets/1f35c4bb-b13a-41c5-ac87-e1eb7586d326" width="150"/> |
-| [@jiwon](https://github.com/jiwonly) | [@lee-yeonseo](https://github.com/lee-yeonseo) |
+| [@jiwonly](https://github.com/jiwonly) | [@lee-yeonseo](https://github.com/lee-yeonseo) |
 
 
 <br>
